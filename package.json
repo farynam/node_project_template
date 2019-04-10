@@ -1,0 +1,26 @@
+{
+  "name": "node_project_template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcin Faryna",
+  "license": "ISC",
+
+  "devDependencies": {
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.4.0",
+    "@babel/polyfill": "7.4.3",
+    "@babel/preset-env": "^7.4.2",
+    "@babel/register": "7.4.0",
+    "babel-core": "^6.26.3"
+  },
+
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/farynam/node_project_template.git"
+  }
+}

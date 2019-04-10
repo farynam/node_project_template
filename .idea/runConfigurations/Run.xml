@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run" type="NodeJSConfigurationType" path-to-node="vagrant://$PROJECT_DIR$/myapps/node-v10.15.3-linux-x64/bin/node" path-to-js-file="run/dev.js" working-dir="$PROJECT_DIR$">
+    <envs>
+      <env name="DISPLAY" value=":0" />
+    </envs>
+    <method v="2" />
+  </configuration>
+</component>

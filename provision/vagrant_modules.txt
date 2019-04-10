@@ -1,0 +1,7 @@
+
+for update virtualbox additons:
+    vagrant plugin install vagrant-vbguest
+    vagrant vbguest
+
+for rsync node_modules:
+    vagrant-gatling-rsync
